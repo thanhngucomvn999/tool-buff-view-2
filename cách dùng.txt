@@ -1,0 +1,82 @@
+LỆNH SETUP TURMUX (ADR)
+
+Ai chưa tải turmux thì link tải đây nhé
+
+https://apkcombo.com/vi/termux/com.termux/
+
+Lệnh Setup Tool Python Và Php 
+
+termux-setup-storage && apt update && apt upgrade -y && pkg install python && pkg install python2 && pkg install python3 && pkg install python2 && pip install requests && pkg install git && pip install bs4 && pip install colorama && pip install pystyle && pip install selenium && pip install beautifulsoup4 && pkg install php && pip install inquirer && pip install pillow && pip install golang && pip install console && pip install pystyle
+
+ 
+
+Có lệnh hỏi (y/n) thì nhập y
+
+Cách vào tool:
+
+( thường khi tải về sẽ vào mục download )
+
+1: cd /sdcard
+
+2: cd download
+
+3: python c25tool.py
+
+Để dừng lệnh ae ấn ctrl + C
+
+ 
+
+lỆNH SETUP ISH (IOS)
+
+1: apk add py3-pip
+
+2: pip install requests
+
+3: pip install bs4
+
+4: pip install pystyle
+
+---lệnh chạy tool----
+
+python3 tên file.py
+
+vd: ( python3 c25tool39.py) 
+
+ 
+
+lỆNH SETUP PC
+
+Tải python phiên bản 11.
+
+Ai chưa tải python thì tải tại đây nhé
+
+https://www.python.org/downloads/release/python-3116/
+
+(kéo xuống dưới mục files r chọn)
+
+Lệnh  PC Máy Tính cho Python 
+
+ 
+
+Lệnh 1: python --version
+
+Lệnh 2: python -m pip install --upgrade pip
+
+Lệnh 3: pip install requests
+
+Lệnh 4: pip install colorama
+
+Lệnh 5: pip install bs4
+
+Lệnh 6: pip install beautifulsoup4
+
+Lệnh 7: pip install Anime
+Lệnh 8: pip install pystyle
+
+---lệnh chạy tool----
+
+VD: Cho file python ra màn hình r vào cmd
+
+1:  cd desktop 
+
+2:  python c25tool.py
